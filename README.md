@@ -1,7 +1,10 @@
-[toc]
+> ES6语法
 
-# let
+---
 
-# const
-
-- [let](./let/README.md)
+- let
+- const
+- 解构赋值
+- map
+- set
+- promise
